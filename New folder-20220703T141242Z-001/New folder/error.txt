@@ -1,0 +1,8 @@
+<html>
+    <head>
+         <link rel="stylesheet" href="styles.css">
+        <title>Error</title>
+    </head>
+    <body>
+        <h1 class="error">The file is not found</h1><br><br>
+        <p class="para_error"> <b>ahmad Barhoum 1183231 <br> obada hattab 1171616 <br> yazan doha 1171451</p> </b>
